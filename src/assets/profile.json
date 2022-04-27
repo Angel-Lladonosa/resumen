@@ -13,5 +13,11 @@
       "name":"eat",
       "power": 7
     }
+  ],
+  "education": [
+    {
+      "name": "ies ciudad jardin",
+      "startDate" : "2011-9-1"
+    }
   ]
 }
